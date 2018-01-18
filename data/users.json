@@ -1,0 +1,55 @@
+[
+  {
+    "alias": "wes",
+    "roles": [
+      "admin"
+    ],
+    "contact": {
+      "phone": "(477) 838-0798",
+      "email": "wes@email.com"
+    },
+    "address": {
+      "lines": [
+        "3939 Rondorp Ridge",
+        "Apt 65"
+      ],
+      "city": "New York",
+      "state": "NY",
+      "zip": 10098
+    }
+  },
+  {
+    "alias": "pax",
+    "roles": [
+      "moderator"
+    ],
+    "contact": {
+      "phone": "(837) 838-6236",
+      "email": "pax@email.com"
+    },
+    "address": {
+      "lines": [
+        "1 Apache Road",
+        "Suite 301"
+      ],
+      "city": "Seattle",
+      "state": "WA",
+      "zip": 98765
+    }
+  },
+  {
+    "alias": "john",
+    "contact": {
+      "phone": "(402) 838-4544",
+      "email": "john@email.com"
+    },
+    "address": {
+      "lines": [
+        "100 Bab Lane"
+      ],
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": 76852
+    }
+  }
+]
